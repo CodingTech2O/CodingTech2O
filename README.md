@@ -12,8 +12,6 @@
 
 🏆 Experience with Python, Flask, SQL, C++, JavaScript, HTML, CSS, Pandas, NumPy, and Data Visualization.
 
-📚 Co-author of the upcoming book **"Living with Artificial Intelligence (AI): What Everyone Should Know"**.
-
 🤝 Open to collaborating on open-source projects, AI applications, data science projects, and innovative software solutions.
 
 📫 Reach me at: **[asharanchess@gmail.com](mailto:asharanchess@gmail.com)**
