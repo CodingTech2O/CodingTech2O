@@ -16,7 +16,7 @@
 
 📫 Reach me at: **[asharanchess@gmail.com](mailto:asharanchess@gmail.com)**
 
-⚡ Fun Fact: I started building software projects at a young age and enjoy turning complex ideas into practical applications.
+⚡ Fun Fact: I started building software projects at the young age of 10 and enjoy turning complex ideas into practical applications.
 
 <!---
 CodingTech2O/CodingTech2O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
