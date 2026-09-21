@@ -1,24 +1,30 @@
-# Hi, I'm Aditya Sharan 👋
+### Hi, I'm Aditya Sharan
 
-🚀 Passionate programmer, AI enthusiast, and aspiring software engineer from India.
+Student developer from India, building real products with Python and Flask.
 
-💻 I enjoy building real-world projects involving Artificial Intelligence, data analysis, automation, and web development.
+**Now:** CTO at **[Stock Rocket](https://stockrocket.it.com)** (an Indian stock research platform) and **Mysuxess** (an AI operations tool that runs team workflows like email, scheduling, CRM and GitHub from plain-English prompts). Both codebases are private.
 
-📈 Creator of **Stock Rocket**, an AI-powered investment research platform designed to simplify stock analysis and decision-making.
+---
 
-🌱 Currently learning **Data Engineering, Databricks, Cloud Technologies, and Advanced Computer Science Concepts**.
+#### Stock Rocket, in brief
+Stock Rocket is a full stock analysis web app for Indian markets. Phase 1 was about 16,000 lines of code. It includes:
+- **InvestGPT:** AI-written stock analysis, with real recommendations tracked over time to show how reliable they are
+- **Stock Ranger:** scans the market for stocks that meet your criteria
+- **DCF valuation** and **conviction scoring**
+- **Data cleaning:** fixes the million/crore unit mix-ups found in Indian financial data sources
 
-🔬 Interested in Artificial Intelligence, Machine Learning, Cybersecurity, Operating Systems, and Financial Technology.
+#### Open-source projects
 
-🏆 Experience with Python, Flask, SQL, C++, JavaScript, HTML, CSS, Pandas, NumPy, and Data Visualization.
+| Project | What it is | |
+|---|---|---|
+| **[29cardgame](https://github.com/CodingTech2O/29cardgame)** | The Indian trick-taking game *29* in the browser: bidding, hidden trump, digging, and three bot opponents | **[▶ Play live](https://two9cardgame-skj7.onrender.com/)** |
+| **[WebCrawler](https://github.com/CodingTech2O/WebCrawler)** | Concurrent same-domain crawler with a thread-safe rate limiter, `robots.txt` checks and a Flask dashboard | Tested with pytest |
+| **[StudyPlanner](https://github.com/CodingTech2O/StudyPlanner)** | Splits your study hours across subjects by how weak you are in each and how close the exam is, then builds a day-by-day schedule | Flask |
+| **[SeriesMaster](https://github.com/CodingTech2O/SeriesMaster)** | Python library for math series: primes, Fibonacci-style sequences, Lucas numbers, Pascal's triangle | Python |
 
-🤝 Open to collaborating on open-source projects, AI applications, data science projects, and innovative software solutions.
+#### Stack
+`Python` · `Flask` · `SQL` · `JavaScript` · `HTML/CSS` · `Pandas` · `NumPy` · `C++` · `pytest`
 
-📫 Reach me at: **[asharanchess@gmail.com](mailto:asharanchess@gmail.com)**
+---
 
-⚡ Fun Fact: I started building software projects at the young age of 10 and enjoy turning complex ideas into practical applications.
-
-<!---
-CodingTech2O/CodingTech2O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 [asharanchess@gmail.com](mailto:asharanchess@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aditya-sharan-018134273) · [X](https://x.com/EdTechDude03)
